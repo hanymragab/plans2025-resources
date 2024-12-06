@@ -13,17 +13,20 @@ This repository provides supplementary material for the paper, including images,
 
 ## Images and Captions
 
-### Image 1: **Road Test Trajectories**
+### Section 1: **Road Test Trajectories**
+### Figure 1: **Road Test Trajectory: Toronto T19.1 **
 ![Toronto T19.1](./imgs/Toronto_T19_1_in_Sat_mode_with_SV.png)
+### Figure 2: **Road Test Trajectory: Toronto T19.2 **
 ![Toronto T19.2](./imgs/Toronto_T19_2_in_Sat_mode_with_SV.png)
+### Figure 3: **Road Test Trajectory: Kingston T19.1 **
 ![Kingston T19.1](./imgs/Kingston_K19_1_in_Sat_mode_with_SV.png)
 
 
-### Image 2: **Error Analysis**
+### Section 2: **Error Analysis**
 ![Error Analysis](./imgs/error_analysis.png)  
 *Error variance analysis on OBD-II-derived vehicular speed data gathered throughout the 3 different trajectories.*
 
-### Image 3: **Field Test Setup**
+### Section 3: **Field Test Setup**
 ![Field Test Setup](./imgs/field_test_setup.png)  
 *A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
 
