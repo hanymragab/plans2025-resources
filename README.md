@@ -21,7 +21,7 @@ This repository provides supplementary material for the paper, including images,
 
 ### Image 2: **Error Analysis**
 ![Error Analysis](./imgs/error_analysis.png)  
-*Graphical representation of speed errors.*
+*Error variance analysis on OBD-II-derived vehicular speed data gathered throughout the 3 different trajectories.*
 
 ### Image 3: **Field Test Setup**
 ![Field Test Setup](./imgs/field_test_setup.png)  
