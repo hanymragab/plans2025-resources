@@ -1,7 +1,7 @@
 
 # Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS
 
-This repository accompanies the IEEE conference paper **"Automotive Wheel Speed Sensors: Types and Error Characteristics from a Land Vehicle Navigation Perspective"**, to be presented at **IEEE/ION PLANS 2025**. A preprint is available on [arXiv](https://arxiv.org/abs/XXXX.XXXXX).
+This repository accompanies the IEEE conference paper **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**, to be presented at **IEEE/ION PLANS 2025**. A preprint is available on [arXiv](https://arxiv.org/abs/XXXX.XXXXX).
 
 ---
 
@@ -37,7 +37,7 @@ If you find this work useful, please cite:
 
 ```
 @inproceedings{Ragab2025,
-  title={Automotive Wheel Speed Sensors: Types and Error Characteristics from a Land Vehicle Navigation Perspective},
+  title={Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS},
   author={Hany Ragab et al.},
   booktitle={IEEE/ION PLANS},
   year={2025},
