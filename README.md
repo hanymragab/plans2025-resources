@@ -19,7 +19,7 @@ This repository provides supplementary material for the paper, including images,
 ![Toronto T19.2](./imgs/Toronto_T19_2_in_Sat_mode_with_SV.png)
 ### Figure 2: Toronto T19.2
 ![Kingston K19.1](./imgs/Kingston_K19_1_in_Sat_mode_with_SV.png)
-### Figure 3: Kingston T19.1
+### Figure 3: Kingston K19.1
 
 ### <ins>Section 2: Error Analysis</ins>
 ![Error Analysis](./imgs/error_analysis.png)  
