@@ -26,9 +26,11 @@ This repository provides supplementary material for the paper, including images,
 *Error variance analysis on OBD-II-derived vehicular speed data gathered throughout the 3 different trajectories.*
 
 ### <ins>Section 3: Field Test Setup</ins>
+<p align="center">
 ![Vehicle's Side View](./imgs/Toyota_Sienna_with_ZED_HFOV_SideView.png)  
 ![Vehicle's Blueprint with Sensors](./imgs/Car_Blueprint_with_Sensors.png)  
 *A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
+</p>
 
 ---
 
