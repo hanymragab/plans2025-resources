@@ -29,8 +29,8 @@ This repository provides supplementary material for the paper, including images,
 <p align="center">
 ![Vehicle's Side View](./imgs/Toyota_Sienna_with_ZED_HFOV_SideView.png)  
 ![Vehicle's Blueprint with Sensors](./imgs/Car_Blueprint_with_Sensors.png)  
-*A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
 </p>
+*A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
 
 ---
 
