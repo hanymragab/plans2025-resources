@@ -7,7 +7,7 @@ This repository accompanies the IEEE conference paper **"Automotive Speed Estima
 
 ## Overview
 
-This repository provides supplementary material for the paper, including images, code, and datasets that demonstrate the results discussed in the publication. Below are the visualizations of the road test trajectories referenced in the paper, located in the `/imgs` folder.
+This repository provides supplementary material for the paper, including images, code, and datasets demonstrating the results discussed in the publication. Below are the visualizations of the road test trajectories referenced in the paper, located in the `/imgs` folder.
 
 ---
 
@@ -32,7 +32,6 @@ This repository provides supplementary material for the paper, including images,
 
 
 <p align="center">
-// Your content
   *A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
 </p>
 ---
