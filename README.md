@@ -30,8 +30,11 @@ This repository provides supplementary material for the paper, including images,
 ![Vehicle's Blueprint with Sensors](./imgs/Car_Blueprint_with_Sensors.png)  
 ![Vehicle's Testbed](./imgs/Toyota_Sienna_Trunk.png)
 
-*A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
 
+<p align="center">
+// Your content
+  *A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
+</p>
 ---
 
 ## Citation
