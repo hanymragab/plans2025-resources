@@ -28,7 +28,7 @@ This repository provides supplementary material for the paper, including images,
 ### <ins>Section 3: Field Test Setup</ins>
 ![Vehicle's Side View](./imgs/Toyota_Sienna_with_ZED_HFOV_SideView_FrontCarView_Combined.png)  
 ![Vehicle's Blueprint with Sensors](./imgs/Car_Blueprint_with_Sensors.png)  
-![Vehicle's Testbed](./imgs/NavINST_19_Trunk_TestBed.png)
+![Vehicle's Testbed](./imgs/Toyota_Sienna_Trunk.png)
 
 *A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
 
