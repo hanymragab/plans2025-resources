@@ -29,10 +29,11 @@ This repository provides supplementary material for the paper, including images,
 ![Vehicle's Side View](./imgs/Toyota_Sienna_with_ZED_HFOV_SideView_FrontCarView_Combined.png)  
 ![Vehicle's Blueprint with Sensors](./imgs/Car_Blueprint_with_Sensors.png)  
 ![Vehicle's Testbed](./imgs/Toyota_Sienna_Trunk_Disp_T.png)
+![Vehicle's OBD-II to UART Communication](./imgs/OBDII_to_UART_Interfacing_w_Arduino_MEGA.png)
 
 
 <p align="center">
-  *A snapshot of the vehicle testbed equipped with sensors used for data collection and validation.*
+  *Snapshots of the vehicle testbed equipped with sensors, along with the OBD-II to UART interfacing module, all utilized for data collection and validation.*
 </p>
 ---
 
