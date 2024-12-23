@@ -53,9 +53,9 @@ If you find this work useful, please cite:
 
 1. We would like to express our sincere gratitude to Dr. M. Karaim for generously providing his minivan for the road test experiments.  
 2. Special thanks to Mr. M. Adam for his invaluable assistance in building the mounts used in the experiments.  
-3. Team effort: Dr. M. Karaim, S. K. Abdelaziz, M. Rashed, A. Aboutaleb, and Dr. H. Ragab. [View team photo](https://photos.app.goo.gl/VjGzmWq3mvUCKFh67).  
+3. Data collection was carried out collaboratively by Dr. M. Karaim, S. K. Abdelaziz, M. Rashed, A. Aboutaleb, and Dr. H. Ragab. [View team photo](https://photos.app.goo.gl/VjGzmWq3mvUCKFh67).
 
-This research was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) through a Discovery Grant, with additional support from DND IDEaS and Mitacs through the Mitacs Accelerate program (IT number: IT12699), all under the supervision of Dr. A. Noureldin.
+This research activity was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) through a Discovery Grant, with additional support from DND IDEaS and Mitacs through the Mitacs Accelerate program (IT number: IT12699), all under the supervision of Dr. A. Noureldin.
 
 ---
 
