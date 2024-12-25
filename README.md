@@ -55,7 +55,7 @@ If you find this work useful, please cite:
 2. Special thanks to Mr. M. Adam for his invaluable assistance in building the mounts used in the experiments.  
 3. Data collection was carried out collaboratively by Dr. M. Karaim, Ms. S. K. Abdelaziz, Mr. M. Rashed, Mr. A. Aboutaleb, and Dr. H. Ragab. [View team photo](https://photos.app.goo.gl/VjGzmWq3mvUCKFh67).
 
-This research activity was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) through a Discovery Grant, with additional support from DND IDEaS and Mitacs through the Mitacs Accelerate program (IT number: IT12699), all under the supervision of Dr. A. Noureldin.
+This research activity was funded by the Natural Sciences and Engineering Research Council of Canada (NSERC) through a Discovery Grant, with additional support from DND and Mitacs through the Mitacs Accelerate program (IT number: IT12699), all under the supervision of Dr. A. Noureldin.
 
 ---
 
