@@ -22,7 +22,7 @@ This repository provides supplementary material for the paper, including images,
 ### Figure 3: Kingston K19.1
 
 ### <ins>Section 2: Error Analysis</ins>
-![Error Analysis](./imgs/PWSS_error_variance_anlaysis.png)  
+![Error Analysis](<img src="./imgs/PWSS_error_variance_anlaysis.png" alt="drawing" width="200"/>)  
 *Error variance analysis on OBD-II-derived vehicular speed data gathered throughout the 3 different trajectories.*
 
 ### <ins>Section 3: Field Test Setup</ins>
