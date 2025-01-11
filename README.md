@@ -1,7 +1,7 @@
 
 # Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS
 
-This repository accompanies the IEEE conference paper **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**, to be presented at **Conference Title**. A preprint is available on [arXiv](https://arxiv.org/abs/2501.00242).
+This repository accompanies the IEEE conference paper **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**, to be presented at **"Conference Title"**. A preprint is available on [arXiv](https://arxiv.org/abs/2501.00242).
 
 ---
 
