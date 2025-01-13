@@ -11,7 +11,7 @@ This repository provides supplementary material for the paper, including images,
 
 ---
 
-## Images and Captions
+## Road Test Trajectories
 
 ### <ins>Section 1: Road Test Trajectories</ins>
 ![Toronto T19.1](./imgs/Toronto_T19_1_in_Sat_mode_with_SV.png)
