@@ -17,9 +17,9 @@ This repository provides supplementary material for the paper, including images,
 | T19.1     | Toronto 13-10-2019    | 1 hr 00 min        | 14.0228 km/h    |
 | T19.2     | Toronto 13-10-2019    | 1 hr 10 mins       | 19.938 km/h     |
 
-**Table:** Road Test Trajectories.
+**Table:** Statistics of Road Test Trajectories.
 
-### <ins>Section 1: Road Test Trajectories</ins>
+### <ins>Section 1: Road Test Trajectory Visualizations</ins>
 ![Toronto T19.1](./imgs/Toronto_T19_1_in_Sat_mode_with_SV.png)
 ### Figure 1: Toronto T19.1
 ![Toronto T19.2](./imgs/Toronto_T19_2_in_Sat_mode_with_SV.png)
