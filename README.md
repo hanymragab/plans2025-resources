@@ -51,12 +51,12 @@ This repository provides supplementary material for the paper, including images,
 If you find this work useful, please cite:
 
 ```
-@inproceedings{Ragab2025,
+@inproceedings{ragab_automotive_2025,
   title={Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS},
   author={Hany Ragab et al.},
-  booktitle={TBD},
+  doi = {10.48550/arXiv.2501.00242},
   year={2025},
-  note={Preprint available at https://arxiv.org/abs/2501.00242}
+  note={Preprint available at https://arxiv.org/abs/2501.00242},
 }
 ```
 
