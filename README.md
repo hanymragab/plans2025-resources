@@ -54,7 +54,7 @@ If you find this work useful, please cite:
 @inproceedings{Ragab2025,
   title={Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS},
   author={Hany Ragab et al.},
-  booktitle={Conference},
+  booktitle={TBD},
   year={2025},
   note={Preprint available at https://arxiv.org/abs/2501.00242}
 }
