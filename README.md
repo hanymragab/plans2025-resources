@@ -9,6 +9,8 @@ This repository accompanies the IEEE conference paper **"Automotive Speed Estima
 
 This repository provides supplementary material for the paper, including images, code, and datasets demonstrating the results discussed in the publication. Below are the visualizations of the road test trajectories referenced in the paper, located in the `/imgs` folder.
 
+<div align="center">
+
 ---
 
 | **Label** | **Trajectory name**   | **Duration**       | **Avg. speed**  |
@@ -39,6 +41,8 @@ This repository provides supplementary material for the paper, including images,
 <p align="center">
   *Snapshots of the vehicle testbed equipped with sensors, along with the OBD-II to UART interfacing module, all utilized for data collection and validation.*
 </p>
+
+</div>
 ---
 
 ## Citation
