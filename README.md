@@ -66,9 +66,20 @@ This repository provides supplementary material for the papers, including images
 If you find this work useful, please cite:
 
 ```
+@phdthesis{ragab_integration_2024,
+	address = {Kingston, Ontario, Canada},
+	title = {Integration of {Topological} {Maps} with {GNSS} and {Onboard} {Sensors} for {Robust} {Land} {Vehicle} {Navigation}},
+	copyright = {CC BY 4.0},
+	language = {eng},
+	school = {Queen's University},
+	author = {Ragab, Hany},
+	month = July,
+	year = {2024},
+}
+
 @inproceedings{ragab_automotive_2025,
   title={Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS},
-  author={Hany Ragab et al.},
+  author={Ragab, Hany, Givigi, Sidney and Noureldin, Aboelmagd},
   doi = {10.48550/arXiv.2501.00242},
   year={2025},
   note={Preprint available at https://arxiv.org/abs/2501.00242},
