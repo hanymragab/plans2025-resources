@@ -63,7 +63,7 @@ This repository provides supplementary material for the papers, including images
 
 ## Citation
 
-If you find this work useful, please cite:
+If you find this work useful, please cite the corresponding publication:
 
 ```
 @phdthesis{ragab_integration_2024,
@@ -76,7 +76,8 @@ If you find this work useful, please cite:
 	month = July,
 	year = {2024},
 }
-
+```
+```
 @inproceedings{ragab_automotive_2025,
   title={Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS},
   author={Ragab, Hany, Givigi, Sidney and Noureldin, Aboelmagd},
@@ -85,6 +86,8 @@ If you find this work useful, please cite:
   note={Preprint available at https://arxiv.org/abs/2501.00242},
 }
 ```
+
+Thank you :)
 
 ## Acknowledgments
 
