@@ -1,4 +1,18 @@
-# Test
+# NavINST'19 Dataset
+
+This repository supports several publications based on my Ph.D. thesis:  
+**"Integration of Topological Maps with GNSS and Onboard Sensors for Robust Land Vehicle Navigation"**  
+(Queen’s University, Kingston, Ontario, Canada, July 2024).  
+
+The thesis is currently restricted and will be made publicly accessible once the pending publications are finalized. In the meantime, it can be accessed upon request via [QSpace](https://hdl.handle.net/1974/33163).
+
+The publications currently supported are:  
+1. **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**  
+   (conference paper, preprint available on [arXiv](https://arxiv.org/abs/2501.00242)).  
+2. **"Waypoint-Informed Localization (WiL): A Novel Integration of 2D Maps and Onboard Sensors for Robust GNSS-Denied Navigation"**  
+   (journal paper, to be submitted in February 2025).  
+
+---
 
 <h1 style="font-size: 1.5em;">Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS</h1>
 
