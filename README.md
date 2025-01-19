@@ -8,15 +8,15 @@ The thesis is currently restricted and will be made publicly accessible once the
 
 The publications currently supported are:  
 1. **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**  
-   (conference paper, preprint available on [arXiv](https://arxiv.org/abs/2501.00242)).  
+   (conference paper, a preprint available on [arXiv](https://arxiv.org/abs/2501.00242)).  
 2. **"Waypoint-Informed Localization (WiL): A Novel Integration of 2D Maps and Onboard Sensors for Robust GNSS-Denied Navigation"**  
    (journal paper, to be submitted in February 2025).  
 
----
+<!-- ---
 
 <h1 style="font-size: 1.25em;">Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS</h1>
 
-This repository accompanies the IEEE conference paper **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**. A preprint is available on [arXiv](https://arxiv.org/abs/2501.00242).
+This repository accompanies the IEEE conference paper **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**. A preprint is available on [arXiv](https://arxiv.org/abs/2501.00242). -->
 
 ---
 
