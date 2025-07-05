@@ -1,4 +1,4 @@
-# NavINST'19 Dataset
+# PLANS 2025 Resources
 
 This repository supports several publications based on my Ph.D. thesis:  
 **"Integration of Topological Maps with GNSS and Onboard Sensors for Robust Land Vehicle Navigation"**  
