@@ -6,7 +6,7 @@ This repository supports several publications based on my Ph.D. thesis:
 
 The publications currently supported are:  
 1. **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**  
-   (IEEE/ION PLANS 2025 paper, available on [arXiv](https://arxiv.org/abs/2501.00242) and [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11028310).  
+   (IEEE/ION PLANS 2025 paper, available on [arXiv](https://arxiv.org/abs/2501.00242) and [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11028310)).  
 2. **"Waypoint-Informed Localization (WiL): A Novel Integration of 2D Maps and Onboard Sensors for Robust GNSS-Denied Navigation"**  
    (journal paper, submitted).  
 
@@ -85,8 +85,6 @@ If you find this work useful, please cite the corresponding publication:
   doi={10.1109/PLANS61210.2025.11028310},
 }
 ```
-
-Thank you :)
 
 ## Acknowledgments
 
