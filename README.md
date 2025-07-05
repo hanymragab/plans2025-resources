@@ -1,16 +1,14 @@
-# PLANS 2025 Resources
+# IEEE/ION PLANS 2025 Resources
 
 This repository supports several publications based on my Ph.D. thesis:  
 **"Integration of Topological Maps with GNSS and Onboard Sensors for Robust Land Vehicle Navigation"**  
 (Queen’s University, Kingston, Ontario, Canada, July 2024).  
 
-The thesis is currently restricted and will be made publicly accessible once the pending publications are finalized. In the meantime, it can be accessed upon request via [QSpace](https://hdl.handle.net/1974/33163).
-
 The publications currently supported are:  
 1. **"Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS"**  
-   (conference paper, a preprint available on [arXiv](https://arxiv.org/abs/2501.00242)).  
+   (IEEE/ION PLANS 2025 paper, available on [arXiv](https://arxiv.org/abs/2501.00242) and [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11028310).  
 2. **"Waypoint-Informed Localization (WiL): A Novel Integration of 2D Maps and Onboard Sensors for Robust GNSS-Denied Navigation"**  
-   (journal paper, to be submitted in February 2025).  
+   (journal paper, submitted).  
 
 <!-- ---
 
@@ -79,11 +77,12 @@ If you find this work useful, please cite the corresponding publication:
 ```
 ```
 @inproceedings{ragab_automotive_2025,
-  	title = {Automotive Speed Estimation: Sensor Types and Error Characteristics from OBD-II to ADAS},
-  	author = {Ragab, Hany and Givigi, Sidney and Noureldin, Aboelmagd},
-  	doi = {10.48550/arXiv.2501.00242},
-  	year = {2025},
-  	note = {Preprint available at https://arxiv.org/abs/2501.00242},
+  author={Ragab, Hany and Givigi, Sidney and Noureldin, Aboelmagd},
+  title={Automotive Speed Estimation: Sensor Types and Error Characteristics from {OBD-II} to {ADAS}},
+  booktitle={2025 IEEE/ION Position, Location and Navigation Symposium (PLANS)},
+  year={2025},
+  pages={124-130},
+  doi={10.1109/PLANS61210.2025.11028310},
 }
 ```
 
